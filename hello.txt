@@ -18,3 +18,4 @@ hello bao! master master
 hello bao!2222222222222
 hello bao!22222222222222
 genius!
+focus by another
